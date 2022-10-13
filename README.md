@@ -1,2 +1,2 @@
 # asp-net-core-web-app-demo
-from demo
+from hello world app demo
