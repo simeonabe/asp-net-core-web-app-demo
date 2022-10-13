@@ -1,0 +1,4 @@
+applications:
+ - name: asp-net-core-web-app
+   random-route: true
+   memory: 64M
